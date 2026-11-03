@@ -1,0 +1,4 @@
+singleton ControlStyle 1.0 ControlStyle.qml
+singleton Fonts 1.0 Fonts.qml
+singleton Icons 1.0 Icons.qml
+singleton Theme 1.0 Theme.qml

@@ -1,0 +1,12 @@
+/build/
+/build-*/
+/cmake-build-*/
+
+*.user
+*.user.*
+
+*.sqlite-wal
+*.sqlite-shm
+
+Thumbs.db
+Desktop.ini
